@@ -1,4 +1,5 @@
 # hello-world
-This is my first Github repository
+My first Git Hub repository
 
 Making my first changes to initial master branch through git
+Adding changes
